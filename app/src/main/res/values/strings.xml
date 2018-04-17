@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">magic-8-ball-android 2</string>
+    <string name="txt_view_title">Make everyday decisions easier!</string>
+    <string name="btn_titl">Ask</string>
+</resources>
